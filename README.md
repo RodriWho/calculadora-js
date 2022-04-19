@@ -1,2 +1,2 @@
-# calculadora-js
-Criando uma calculadora com Javascript
+# Calculadora Javascript
+ - Criando uma calculadora com Javascript
